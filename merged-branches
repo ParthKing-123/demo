@@ -1,0 +1,11 @@
+C:\Users\parth\OneDrive\Desktop\DS-II\demo\mcino-Introduction-to-Git-and-GitHub>type merge_branches
+$ git checkout main
+Your branch is up to date with 'origin/main'.
+Switched to branch 'main'
+$ git merge bug-fix-typo
+Updating ad95b0a..a08b977
+Fast-forward
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+C:\Users\parth\OneDrive\Desktop\DS-II\demo\mcino-Introduction-to-Git-and-GitHub>
