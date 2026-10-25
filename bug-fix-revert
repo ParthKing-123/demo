@@ -1,0 +1,22 @@
+C:\Users\parth\OneDrive\Desktop\DS-II\demo\mcino-Introduction-to-Git-and-GitHub>type bug-fix-revert
+$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12859
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/12859",
+  "state": "closed",
+  "title": "Bug fix revert",
+    "html_url": "https://github.com/ParthKing-123",
+  "labels": [],
+    "label": "ParthKing-123:bug-fix-revert",
+      "full_name": "ParthKing-123/mcino-Introduction-to-Git-and-GitHub",
+        "html_url": "https://github.com/ParthKing-123",
+      "html_url": "https://github.com/ParthKing-123/mcino-Introduction-to-Git-and-GitHub",
+      "labels_url": "https://api.github.com/repos/ParthKing-123/mcino-Introduction-to-Git-and-GitHub/labels{/name}",
+      "html_url": "https://github.com/ParthKing-123",
+    "label": "ibm-developer-skills-network:main",
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+        "html_url": "https://github.com/ibm-developer-skills-network",
+      "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "labels_url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/labels{/name}",
+      "html_url": "https://github.com/ibm-developer-skills-network",
+  "mergeable_state": "clean",
+
+C:\Users\parth\OneDrive\Desktop\DS-II\demo\mcino-Introduction-to-Git-and-GitHub>
